@@ -12,7 +12,6 @@ $5.05 -> 20 quarters, 1 nickel
 Assignment 2
 Generate Loan calculator
 Inputs: Total loan principal amount, Interest rate (annual), Total terms (monthly)
-
 Outputs: Remaining terms, Monthly payment, Monthly interest paid, Monthly principal paid, Total interest, Total paid, Remaining balance.
 All values are displayed for each month in the loan.
 
@@ -23,6 +22,5 @@ Generate N random values, calculate Average and Standard Deviation, stores and o
 
 Assignment 4
 Created a class
-
 Inputs: Grades in a course
 Outputs: Grade as a percent, Grade as a letter, and stores the student ID number
