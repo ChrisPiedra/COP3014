@@ -6,7 +6,7 @@
 //  Due: 9/20/22
 //
 // Functions: calcInterest, calcPayment, main
-
+//
 // Variables:
 //      Inputs: loanAmount, intRate, termInMonths
 //      Outputs: paymentTerm, monthlyPayment, princPerMonth, interestPerMonth, totalInterest, totalPaid, balanceDue
