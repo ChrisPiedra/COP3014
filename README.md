@@ -24,3 +24,13 @@ Assignment 4
 Created a class
 Inputs: Grades in a course
 Outputs: Grade as a percent, Grade as a letter, and stores the student ID number
+
+
+Assignment 5
+Abstract datatypes.
+Create a class for rational numbers that stores rational numbers (ex. 2/3). 
+Overload operators: <<, >>, ==, >, <=, >=, +, -, *, and /.
+
+
+Assignment 6
+Separated Assignment 5 into Header, Implementation, & Application files. Generated namespaces,  duplicates not allowed. Further refined code.
